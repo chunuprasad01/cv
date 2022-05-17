@@ -1,0 +1,44 @@
+body{
+    margin:0;
+}
+
+nav {
+    border: 2px solid blue;
+    background-color: black;
+    padding: 17px;
+}
+nav a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px 88px;
+    
+}
+nav a:hover{
+    color:yellow;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: blueviolet;
+    
+}
+.unique tr td{
+    border: 5px solid navajowhite;
+}
+.btn{
+    background-color: springgreen;
+    font-size: 50px;
+}
+.btn a{
+    text-decoration: none;
+}
+.login{
+    border: 2px solid blue;
+    background-color: black;
+    padding: 17px;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px 56px;
+}
+.login:hover{
+    color: black;
+    background-color: rgb(200, 255, 0);
+}
